@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1>个人简介</h1>
+![Visitor Count](https://profile-counter.glitch.me/GoogleLLP/count.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoogleLLP)](https://github.com/GoogleLLP/github-readme-stats)
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoogleLLP&show_icons=true&theme=tokyonight)
